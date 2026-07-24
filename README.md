@@ -1,7 +1,5 @@
 ## Hi there, I'm Ogochukwu 👋
-Data Engineer | Procurement and Supply Chain Specialist | Bridging Supply Chain operations and Modern Data Engineering
-<!--
-**Favor197/Favor197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Data Engineer | Procurement and Supply Chain Specialist | Bridging Supply Chain operations and Modern Data Engineering
 
 - Who am I?
   A Data Engineer with a foundation in procurement and supply chain operations, combining domain expertise with modern data engineering practises to build reliable and scalable data platforms.
@@ -38,4 +36,4 @@ Data Engineer | Procurement and Supply Chain Specialist | Bridging Supply Chain 
 
 - ⚡ Fun fact: 
 My dream weekwnd? Attending Wrestlemania and experiencing the atmosphere live. I can't wait to cross it off my bucket list.
--->
+
