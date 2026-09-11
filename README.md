@@ -8,7 +8,7 @@ A Data Engineer with a foundation in procurement and supply chain operations, co
   - Lakehouse using Medallion Architecture
   - Automating workflows with Airflow
   - Distributed data processing with PySpark
-  - Optimizing pipelines fro analytics using SQL
+  - Optimizing pipelines for analytics using SQL
   - Applying Supply Chain expertise to solve real world problems
   - Solving Procuremant pain-points
 
