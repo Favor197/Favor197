@@ -49,6 +49,10 @@ A Data Engineer with a foundation in procurement and supply chain operations, co
 
 
 ---
+### ✍️ Latest Article:
+[Did they tell you Data Engineering is moving data from point A to point B?](https://ogochukwu-a.medium.com/did-they-tell-you-data-engineering-is-moving-data-from-point-a-to-point-b-b4063bc7237d)
+
+---
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ogochukwu-ag)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.agina@gmail.com)
